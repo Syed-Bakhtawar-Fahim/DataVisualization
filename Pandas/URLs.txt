@@ -1,0 +1,7 @@
+## Data Visualization Lectures
+1. https://www.youtube.com/watch?v=UZYV8e47OLU (Pandas)
+Data set Link: https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
+
+FullStackDataScience_iNeuron
+
+https://drive.google.com/file/d/1IuqQ_gE5Ag0lHYcH8IqQnsYXtbWTe4es/view
